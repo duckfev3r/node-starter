@@ -6,6 +6,7 @@
 *.sqlite
 *.json
 config.js
+/data
 
 # OS generated files #
 ######################
