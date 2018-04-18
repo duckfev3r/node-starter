@@ -4,6 +4,7 @@
 *.json
 config.js
 .data
+.logs
 .DS_Store
 .DS_Store?
 ._*
