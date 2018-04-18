@@ -1,15 +1,9 @@
-
-# Logs and databases #
-######################
 *.log
 *.sql
 *.sqlite
 *.json
 config.js
-/.data
-
-# OS generated files #
-######################
+.data
 .DS_Store
 .DS_Store?
 ._*
